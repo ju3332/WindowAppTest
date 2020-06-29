@@ -5,7 +5,7 @@ Sample test for window calculator app, migrated to spock test framework. And it 
 
 # Run the test
 
-Methhod 1: Go to project root folder and execute below command
+Methhod 1: Open cmd then go to project root folder and execute below command
 ```
 gradlew test
 ```
